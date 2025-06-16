@@ -12,7 +12,10 @@ J’ai travaillé sur la partie Python et PowerShell. On a réfléchi ensemble �
 ## Problèmes Rencontrés et Solutions Apportées
 Un problème rencontré lors de l'affichage du graphique est que les petits fichiers occupent une portion trop réduite du camembert, rendant leurs étiquettes de pourcentage illisibles ou trop nombreuses.
 Pour résoudre cela, nous avons mis en place un seuil en Mo :
-Seuls les fichiers dépassant une certaine taille affichent leur pourcentage directement sur le camembert.
+Seuls les fichiers dépassant une certaine taille affichent leur pourcentage directement sur le camembert
+
+
+.
 ![Untitled design](https://github.com/user-attachments/assets/c1df9d36-14da-4d5f-a6a2-b2ecba97c680)
 
 
