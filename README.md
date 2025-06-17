@@ -18,24 +18,23 @@ Seuls les fichiers dépassant une certaine taille affichent leur pourcentage dir
 .
 ![Untitled design](https://github.com/user-attachments/assets/c1df9d36-14da-4d5f-a6a2-b2ecba97c680)
 
-
-##  Compétences développées
-
--  Automatisation de tâches système via des scripts  
--  Maîtrise de Python et PowerShell  
--  Gestion des fichiers et des répertoires Windows  
--  Travail en binôme, communication et entraide  
-
-##  Compétences mobilisées 
-Ce projet m’a permis de mobiliser les compétences suivantes du référentiel :
-
+## Compétences mobilisées et actions réalisées
 AC13.01 | Utiliser un système informatique et ses outils (terminal, script, éditeurs).
+
+→ J’ai utilisé le terminal, des éditeurs de code et PowerShell pour automatiser le nettoyage du système.
 
 AC13.02 | Lire, corriger et modifier un programme.
 
+→ J’ai travaillé sur le script Python en binôme, en l’adaptant pour générer un script PowerShell fonctionnel.
+
 AC13.03 | Traduire un algorithme en langage Python, pour automatiser des actions système.
 
+→ J’ai écrit un script Python qui analyse les fichiers à supprimer et génère automatiquement les commandes nécessaires.
+
 AC13.05 | Choisir le bon langage (PowerShell) pour interagir efficacement avec le système Windows.
+
+→ J’ai utilisé PowerShell pour exécuter les commandes de suppression ciblées sur les fichiers inutiles sous Windows.
+
 
 ## Bilan 
 
